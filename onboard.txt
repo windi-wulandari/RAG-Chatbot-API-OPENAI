@@ -1,0 +1,275 @@
+# Selamat Datang di Organisasi XYZ!
+Dokumen ini berisi informasi penting yang perlu Anda ketahui sebagai anggota baru Organisasi XYZ.
+
+## Tentang Organisasi XYZ
+Organisasi XYZ didirikan pada tahun 2015 dengan visi menjadi wadah pengembangan profesional muda di bidang teknologi. Misi kami adalah membangun ekosistem pembelajaran yang inklusif, kolaboratif, dan inovatif.
+
+### Nilai-nilai Organisasi
+1. Integritas: Kami menjunjung tinggi kejujuran dan etika dalam setiap tindakan
+2. Inovasi: Kami selalu mencari cara baru untuk berkembang dan memberikan dampak
+3. Kolaborasi: Kami percaya pada kekuatan kerja sama tim
+4. Inklusivitas: Kami menghargai keberagaman dan memberikan kesempatan yang sama
+
+## Struktur Organisasi
+
+### Dewan Pengurus
+- Ketua: Ahmad Suryadi
+- Wakil Ketua: Sarah Amalia
+- Sekretaris: Budi Santoso
+- Bendahara: Linda Wijaya
+
+### Divisi-divisi
+1. Divisi Pengembangan SDM
+   - Bertanggung jawab atas pelatihan dan pengembangan anggota
+   - Koordinator: Denny Pratama
+   - Email: sdm@xyz.org
+
+2. Divisi Program & Acara
+   - Mengelola event dan program organisasi
+   - Koordinator: Rina Fitriani
+   - Email: program@xyz.org
+
+3. Divisi Teknologi
+   - Menangani infrastruktur IT dan platform digital
+   - Koordinator: Fajar Ramadhan
+   - Email: tech@xyz.org
+
+4. Divisi Komunikasi
+   - Mengelola komunikasi internal dan eksternal
+   - Koordinator: Maya Putri
+   - Email: kominfo@xyz.org
+
+## Kebijakan dan Prosedur
+
+### Jam Kerja
+- Senin - Jumat: 09.00 - 17.00 WIB
+- Istirahat: 12.00 - 13.00 WIB
+- Fleksibel working hour dengan core hours 10.00 - 15.00 WIB
+
+### Dress Code
+- Senin - Kamis: Smart Casual
+  - Pria: Kemeja/polo, celana panjang, sepatu tertutup
+  - Wanita: Blouse/kemeja, rok/celana panjang, flat shoes/heels
+- Jumat: Casual (boleh menggunakan jeans dan sneakers)
+- Rapat External: Business Attire
+
+### Cuti dan Izin
+1. Prosedur Pengajuan Cuti:
+   - Ajukan minimal 3 hari sebelumnya via sistem
+   - Tunggu persetujuan dari supervisor
+   - Serahkan handover pekerjaan sebelum cuti
+
+2. Jenis-jenis Cuti:
+   - Cuti Tahunan: 12 hari
+   - Cuti Sakit: Sesuai surat dokter
+   - Cuti Melahirkan: 3 bulan
+   - Cuti Menikah: 3 hari
+   - Cuti Kedukaan: 2 hari
+
+### Fasilitas
+1. Workstation
+   - Laptop/PC
+   - Dual monitor (opsional)
+   - Standing desk (berdasarkan permintaan)
+
+2. Pantry
+   - Coffee maker
+   - Microwave
+   - Kulkas
+   - Air mineral
+   - Snack ringan
+
+3. Ruang Meeting
+   - 4 ruang meeting (kapasitas 4-12 orang)
+   - 2 ruang diskusi informal
+   - 1 auditorium (kapasitas 100 orang)
+
+4. Internet
+   - Wifi kecepatan 100 Mbps
+   - Backup line 50 Mbps
+   - VPN untuk remote work
+
+### Benefits
+1. Kesehatan
+   - Asuransi kesehatan karyawan
+   - Asuransi gigi
+   - Medical check-up tahunan
+   - Program wellness (yoga, gym)
+
+2. Pengembangan
+   - Training budget tahunan
+   - Akses ke platform pembelajaran online
+   - Program mentoring
+   - Seminar dan workshop
+
+3. Rekreasi
+   - Team building tahunan
+   - Family gathering
+   - Sport club
+   - Library & game room
+
+## Program dan Kegiatan
+
+### Program Rutin
+1. Monthly Town Hall
+   - Setiap akhir bulan
+   - Update progress organisasi
+   - Recognition awards
+   - Sharing session
+
+2. Quarterly Review
+   - Evaluasi pencapaian KPI
+   - Planning untuk quarter berikutnya
+   - Feedback session
+
+3. Annual Events
+   - Anniversary celebration (Agustus)
+   - Year-end party (Desember)
+   - Technology conference (Oktober)
+   - CSR program (Maret & September)
+
+### Program Pengembangan
+1. Mentoring Program
+   - Durasi 6 bulan
+   - Matching dengan senior members
+   - Monthly evaluation
+   - Final presentation
+
+2. Leadership Training
+   - Basic leadership (wajib)
+   - Advanced leadership
+   - Executive leadership
+
+3. Technical Training
+   - Programming fundamentals
+   - Cloud computing
+   - Data analytics
+   - UI/UX design
+
+## Komunikasi Internal
+
+### Channels
+1. Email
+   - Official announcements
+   - Formal communication
+   - External communication
+
+2. Slack
+   - Daily communication
+   - Team coordination
+   - Project updates
+   - Channel naming: #team-[nama], #project-[nama], #announcement
+
+3. Google Workspace
+   - Document collaboration
+   - Calendar management
+   - Video meetings
+
+4. Project Management
+   - Jira untuk project tracking
+   - Confluence untuk dokumentasi
+   - Miro untuk brainstorming
+
+### Guidelines Komunikasi
+1. Email Ethics
+   - Respon dalam 24 jam kerja
+   - Gunakan proper subject line
+   - CC yang berkepentingan saja
+
+2. Meeting Ethics
+   - On time
+   - Prepare agenda
+   - Share minutes of meeting
+   - Camera on untuk virtual meeting
+
+## Keamanan dan Privasi
+
+### Kebijakan Password
+- Minimal 12 karakter
+- Kombinasi huruf, angka, simbol
+- Ganti setiap 3 bulan
+- Tidak boleh sama dengan 3 password terakhir
+
+### Data Protection
+- Enkripsi untuk sensitive data
+- Regular backup
+- Clean desk policy
+- Shredding untuk dokumen fisik
+
+### Access Control
+- ID Card untuk akses kantor
+- Two-factor authentication
+- VPN untuk remote access
+- Guest registration system
+
+## Emergency Procedures
+
+### Kontak Darurat
+- Security: ext. 911
+- IT Support: ext. 999
+- HR: ext. 800
+- Ambulance: ext. 922
+
+### Prosedur Evakuasi
+1. Fire Emergency
+   - Ikuti evacuation route
+   - Assembly point di parkiran utama
+   - Tunggu instruksi floor warden
+   - Jangan gunakan lift
+
+2. Medical Emergency
+   - Hubungi first aider terdekat
+   - Lokasi medical kit di setiap lantai
+   - Tunggu bantuan medis
+
+## FAQ
+### Cuti
+Q: Bagaimana prosedur pengajuan cuti secara lengkap?
+A: Berikut langkah-langkah pengajuan cuti:
+
+Login ke portal HR (hr.xyz.org)
+Pilih menu "Pengajuan Cuti"
+Isi formulir dengan detail:
+
+Jenis cuti
+Tanggal mulai dan selesai
+Alasan cuti
+Delegasi pekerjaan
+
+
+Lampirkan dokumen pendukung (jika diperlukan)
+Submit pengajuan
+Tunggu approval dari supervisor (maksimal 2 hari kerja)
+Setelah disetujui, siapkan handover pekerjaan
+Pastikan update status di team calendar
+
+### Umum
+Q: Bagaimana cara mendapatkan ID Card?
+A: Setelah bergabung, HR akan memproses ID Card dalam 2 hari kerja. Foto akan diambil di kantor.
+
+Q: Dimana saya bisa mendapatkan alat tulis kantor?
+A: Tersedia di gudang ATK lantai 2, hubungi admin untuk mengambil barang.
+
+Q: Bagaimana cara booking ruang meeting?
+A: Gunakan Google Calendar, pilih ruangan yang tersedia dan invite peserta meeting.
+
+### IT Related
+Q: Bagaimana cara reset password?
+A: Kunjungi portal.xyz.org/reset atau hubungi IT Support di ext. 999.
+
+Q: Apa yang harus dilakukan jika laptop bermasalah?
+A: Submit ticket ke helpdesk.xyz.org atau hubungi IT Support.
+
+Q: Bagaimana cara mengakses VPN?
+A: Install OpenVPN, credentials akan dikirim via email setelah request ke IT.
+
+### HR Related
+Q: Kapan gaji dibayarkan?
+A: Tanggal 25 setiap bulan, atau hari kerja sebelumnya jika tanggal 25 libur.
+
+Q: Bagaimana cara mengajukan reimburse?
+A: Submit form reimburse dengan bukti pembayaran ke finance@xyz.org.
+
+Q: Berapa lama masa percobaan?
+A: 3 bulan dengan evaluasi di akhir periode.
+
