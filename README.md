@@ -69,12 +69,12 @@ Below is an explanation of the files in this repository:
 ### Setting Up the Vector Database with Docker
 1. Pull the container image:
    ```bash
-   docker pull rubythalib/pgvector
+   docker pull username/pgvector
    ```
 
 2. Run the container:
    ```bash
-   docker run -p 5432:5432 -e POSTGRES_PASSWORD=example --name my_pgvector -d rubythalib/pgvector
+   docker run -p 5432:5432 -e POSTGRES_PASSWORD=Image Password --name my_pgvector -d username/pgvector
    ```
 
 ---
